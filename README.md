@@ -2,7 +2,7 @@
 
 # <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/2700a971-e5d6-4036-b03f-2f89c9791609" /> OpenEnv: Agentic Execution Environments
 
-<h3 align="center">
+<h3 align="center" style="font-weight:normal;">
 An e2e framework for building, deploying, and using isolated environments for agentic RL training with simple Gymnasium-style APIs.
 </h3>
 
@@ -14,7 +14,7 @@ An e2e framework for building, deploying, and using isolated environments for ag
 
 ## Overview
 
-<p style="font-size:18px; font-weight:normal;">
+<p style="font-size:20px; font-weight:normal;">
 OpenEnv standardizes interaction with agentic execution environments through simple Gymnasium-style APIs — step(), reset(), and state().  
 It enables seamless integration into RL training loops while simplifying environment creation and deployment.
 <br><br>
