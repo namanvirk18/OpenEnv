@@ -17,9 +17,7 @@ An e2e framework for building, deploying, and using isolated environments for ag
 <p style="font-size:18px; font-weight:normal;">
 OpenEnv standardizes interaction with agentic execution environments through simple Gymnasium-style APIs — step(), reset(), and state().  
 It enables seamless integration into RL training loops while simplifying environment creation and deployment.
-
 <br><br>
-
 Researchers and framework developers benefit from a unified interface, while environment creators can easily build rich, isolated, and secure environments using familiar protocols (HTTP) and packaging tools (Docker).
 </p>
 
