@@ -18,6 +18,6 @@ It enables seamless integration into RL training loops while simplifying environ
 Researchers and framework developers benefit from a unified interface, while environment creators can easily build rich, isolated, and secure environments using familiar protocols (HTTP) and packaging tools (Docker).
 
 <div align="center">
-  <img src="assets/OpenEnv-diagram.gif" width="600" alt="OpenEnv Diagram"/>
+  <img src="assets/OpenEnv-diagram.gif" alt="OpenEnv Diagram"/>
 </div>
 
